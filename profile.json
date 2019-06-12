@@ -1,14 +1,14 @@
 {
 	"basics": {
 		"name": "Chico Charlesworth",
-		"label": "Techie",
+		"label": "Techie / Startupreneur",
 		"picture": "profile.jpg",
 		"email": "chico.charlesworth@googlemail.com",
 		"website": "https://chicocharlesworth.com",
 		"twitter": "https://twitter.com/ccharlesworth",
 		"facebook": "https://www.facebook.com/chico.charlesworth",
 		"github": "http://github.com/chico",
-		"summary": "Techie/Startupreneur, founder of @codeandrobots"
+		"summary": "Founder of <a href='http://codeandrobots.com'>Code&Robots</a>"
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
